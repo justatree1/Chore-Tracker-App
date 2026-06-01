@@ -1,17 +1,28 @@
-# chore_split_app
+# Your Home 🌼
 
-A new Flutter project.
+A cozy Flutter app for managing household chores fairly and transparently.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Add, edit, and delete chores
+- Assign chores to household members
+- Activity history
+- Persistent local storage using Hive
+- Custom illustrations and UI
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Hive
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+(coming soon)
+
+## Future Plans
+
+- Character selection
+- Personalization
+- Coin economy system
+- Shared households
